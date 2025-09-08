@@ -1,5 +1,7 @@
 // Use
 export enum CHAIN {
+  KALSHI = "kalshi",
+  GALA = "gala",
   TARA = "tara",
   ARBITRUM = "arbitrum",
   ASSETCHAIN = "assetchain",
@@ -256,6 +258,9 @@ export enum CHAIN {
   GRVT = "grvt",
   SOMNIA = "somnia",
   ORDERLY = "orderly",
+  CAMP = "camp",
+  PARADEX = "paradex",
+  EDGEX = "edgex",
 }
 
 // Don´t use
